@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="fondoApp">#a8d8ea</color>
+    <color name="btnRandom">#aa96da</color>
+    <color name="letras">#fff</color>
+    <color name="btnSuma">#fcbad3</color>
+    <color name="btnResta">#fce38a</color>
+    <color name="btnLimpiar">#8c82fc</color>
+    <color name="btnMul">#62d2a2</color>
+    <color name="btnDiv">#b693fe</color>
+    <color name="btnPar">#f38181</color>
+    <color name="btnPrimo">#fce38a</color>
+    <color name="label">#b590ca</color>
+</resources>
